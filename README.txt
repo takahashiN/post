@@ -1,4 +1,6 @@
-text readme
+﻿text readme
 
 
 ainzweidry
+
+あいうえお
